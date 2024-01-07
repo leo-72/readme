@@ -1,6 +1,6 @@
 # readme
 
-Platform Aplikasi Buku
+Platform Aplikasi Buku Digital
 
 ## Getting Started
 
