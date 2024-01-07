@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18229323928",
+    "project_id": "readme-d460d",
+    "storage_bucket": "readme-d460d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18229323928:android:d1aa4f1f2471600be888ed",
+        "android_client_info": {
+          "package_name": "com.readme.readme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6r_CDiEPXVnPkHT97DhDtfZ6ZpfVjs40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
